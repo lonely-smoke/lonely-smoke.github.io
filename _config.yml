@@ -81,5 +81,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/lonely-smoke/zhaipeiji.github.io.git
-  branch : public
+  branch : master
 
