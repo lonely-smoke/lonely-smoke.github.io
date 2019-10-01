@@ -42,7 +42,7 @@ body {
   background-color: transparent;
 }
 #web_bg {
-  background: ;
+  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569923208837&di=3dbb2701438a59662ca14d1808ebe053&imgtype=0&src=http%3A%2F%2Fpic18.nipic.com%2F20111129%2F4155754_234055006000_2.jpg");
   height: 100%;
   width: 100%;
   -webkit-background-size: cover;
@@ -3902,6 +3902,13 @@ canvas,
   -o-animation: scroll-down-effect 1.5s infinite;
   -ms-animation: scroll-down-effect 1.5s infinite;
   animation: scroll-down-effect 1.5s infinite;
+}
+.avatar_img {
+  -webkit-animation: avatar_turn_around 2s linear infinite;
+  -moz-animation: avatar_turn_around 2s linear infinite;
+  -o-animation: avatar_turn_around 2s linear infinite;
+  -ms-animation: avatar_turn_around 2s linear infinite;
+  animation: avatar_turn_around 2s linear infinite;
 }
 .reward-main {
   -webkit-animation: donate_effcet 0.3s 0.1s ease both;
