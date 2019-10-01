@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小翟实验室
+title: 孤烟实验室
 subtitle: 小翟的个人博客
 description: 分享各类技术文章
 keywords:
@@ -81,5 +81,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/lonely-smoke/zhaipeiji.github.io.git
-  branch : master
+  branch : public
 
